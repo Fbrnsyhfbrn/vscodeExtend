@@ -1,0 +1,49 @@
+# --- CORE BOOST ---
+esbenp.prettier-vscode
+dbaeumer.vscode-eslint
+eamodio.gitlens
+streetsidesoftware.code-spell-checker
+shardulm94.trailing-spaces
+oderwat.indent-rainbow
+gruntfuggly.todo-tree
+formulahendry.auto-close-tag
+formulahendry.auto-rename-tag
+
+# --- AI / PYTHON / DATA ---
+ms-python.python
+ms-python.vscode-pylance
+ms-toolsai.jupyter
+ms-toolsai.vscode-ai
+
+# --- WEB FULLSTACK ---
+ritwickdey.liveserver
+ecmel.vscode-html-css
+bradlc.vscode-tailwindcss
+Vue.volar
+dsznajder.es7-react-js-snippets
+xabikos.javascriptsnippets
+
+# --- SYSTEM / BACKEND ---
+golang.go
+rust-lang.rust-analyzer
+ms-vscode.cpptools
+redhat.java
+ms-dotnettools.csharp
+bungcip.better-toml
+tamasfe.even-better-toml
+aaron-bond.better-comments
+
+# --- THEMES & ICONS ---
+pkief.material-icon-theme
+zhuangtongfa.material-theme
+enkia.tokyo-night
+GitHub.github-vscode-theme
+dracula-theme.theme-dracula
+teabyii.ayu
+
+# --- OPTIONAL BUT ELITE ---
+yzhang.markdown-all-in-one
+bierner.markdown-preview-enhanced
+naumovs.color-highlight
+visualstudioexptteam.vscodeintellicode
+alefragnani.bookmarks
